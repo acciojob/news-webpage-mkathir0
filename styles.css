@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 
-.contaier{
+.container{
 	display:flex;
 }
 .header{
 	background-color:#011e29;
-	color:"white";
-	align-items:"center";
+	color:white;
+	text-align:center;
 	padding:20px;
 	
 }
